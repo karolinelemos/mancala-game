@@ -1,0 +1,39 @@
+C:\Users\blskcl\Desktop\Mancala\Mancala\bin\Debug\Mancala.exe.config
+C:\Users\blskcl\Desktop\Mancala\Mancala\bin\Debug\Mancala.exe
+C:\Users\blskcl\Desktop\Mancala\Mancala\bin\Debug\Mancala.pdb
+C:\Users\blskcl\Desktop\Mancala\Mancala\obj\Debug\Mancala.csprojResolveAssemblyReference.cache
+C:\Users\blskcl\Desktop\Mancala\Mancala\obj\Debug\Mancala.Mancala.resources
+C:\Users\blskcl\Desktop\Mancala\Mancala\obj\Debug\Mancala.Properties.Resources.resources
+C:\Users\blskcl\Desktop\Mancala\Mancala\obj\Debug\Mancala.csproj.GenerateResource.Cache
+C:\Users\blskcl\Desktop\Mancala\Mancala\obj\Debug\Mancala.exe
+C:\Users\blskcl\Desktop\Mancala\Mancala\obj\Debug\Mancala.pdb
+D:\Mancala\Mancala\bin\Debug\Mancala.exe.config
+D:\Mancala\Mancala\obj\Debug\Mancala.exe
+D:\Mancala\Mancala\obj\Debug\Mancala.pdb
+D:\Mancala\Mancala\bin\Debug\Mancala.exe
+D:\Mancala\Mancala\bin\Debug\Mancala.pdb
+D:\Mancala\Mancala\obj\Debug\Mancala.csprojResolveAssemblyReference.cache
+D:\Mancala\Mancala\obj\Debug\Mancala.Mancala.resources
+D:\Mancala\Mancala\obj\Debug\Mancala.Properties.Resources.resources
+D:\Mancala\Mancala\obj\Debug\Mancala.csproj.GenerateResource.Cache
+G:\Mancala\Mancala\bin\Debug\Mancala.exe.config
+G:\Mancala\Mancala\obj\Debug\Mancala.exe
+G:\Mancala\Mancala\obj\Debug\Mancala.pdb
+G:\Mancala\Mancala\bin\Debug\Mancala.exe
+G:\Mancala\Mancala\bin\Debug\Mancala.pdb
+G:\Mancala\Mancala\obj\Debug\Mancala.csprojResolveAssemblyReference.cache
+G:\Mancala\Mancala\obj\Debug\Mancala.Mancala.resources
+G:\Mancala\Mancala\obj\Debug\Mancala.Properties.Resources.resources
+G:\Mancala\Mancala\obj\Debug\Mancala.csproj.GenerateResource.Cache
+C:\Users\blskcl\Desktop\Nova pasta\Mancala\Mancala\bin\Debug\Mancala.exe.config
+C:\Users\blskcl\Desktop\Nova pasta\Mancala\Mancala\obj\Debug\Mancala.exe
+C:\Users\blskcl\Desktop\Nova pasta\Mancala\Mancala\obj\Debug\Mancala.pdb
+C:\Users\blskcl\Desktop\Nova pasta\Mancala\Mancala\bin\Debug\Mancala.exe
+C:\Users\blskcl\Desktop\Nova pasta\Mancala\Mancala\bin\Debug\Mancala.pdb
+C:\Users\blskcl\Desktop\Nova pasta\Mancala\Mancala\obj\Debug\Mancala.csprojResolveAssemblyReference.cache
+C:\Users\blskcl\Desktop\Nova pasta\Mancala\Mancala\obj\Debug\Mancala.Mancala.resources
+C:\Users\blskcl\Desktop\Nova pasta\Mancala\Mancala\obj\Debug\Mancala.Properties.Resources.resources
+C:\Users\blskcl\Desktop\Nova pasta\Mancala\Mancala\obj\Debug\Mancala.csproj.GenerateResource.Cache
+C:\Users\blskcl\Desktop\JogoIA_Karoline\Mancala\Mancala\bin\Debug\Mancala.exe.config
+C:\Users\blskcl\Desktop\JogoIA_Karoline\Mancala\Mancala\obj\Debug\Mancala.exe
+C:\Users\blskcl\Desktop\JogoIA_Karoline\Mancala\Mancala\obj\Debug\Mancala.pdb
